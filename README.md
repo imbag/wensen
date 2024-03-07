@@ -1,3 +1,3 @@
-# Wensen
+# Inzicht wensen BAG
 
-Deze Github pagina is bedoeld voor alle BAG belanghebbenden die inzicht willen hebben met welke doorontwikkeling met betrekking tot de LV BAG het Kadaster mee bezig is.
+Deze pagina is bedoeld om inzicht te bieden in de wensen die bekend zijn met betrekking tot de doorontwikkeling van de BAG. Deze wensen komen onder andere voort uit de evaluatie Wet BAG, vragen aan de BAG helpdesk en het BAG Gebruikersoverleg. De wensen zijn met labels opgedeeld in verschillende categoriën. 
