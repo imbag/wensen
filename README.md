@@ -7,4 +7,4 @@ Deze pagina is bedoeld om inzicht te bieden in de wensen die bekend zijn met bet
 - **BAG als basis voor koppeling:** Wensen voor doorontwikkeling waar de BAG met name een goede basis kan bieden voor koppelingen met andere (sectorale) registraties, en waar de BAG in samenhang met die andere registraties in de informatiebehoefte voorziet. (bijv. het koppelen van energieprestatie-indicatoren of woningtyperingen);
 - **Datafundament - Meer dan alleen BAG:** Wensen die niet zo zeer over de BAG alleen gaan, maar raken aan de doorontwikkeling van de bredere nationale geo-informatie infrastructuur (ofwel het datafundament) waar basis- en sectorregistraties een belangrijke rol spelen. 
 
-Zie [hier](https://github.com/imbag/wensen/labels){:target="_blank" rel="noreferrer"} voor een overzicht van de verschillende labels met een bijbehorende toelichting.
+Zie [hier](https://github.com/imbag/wensen/labels) voor een overzicht van de verschillende labels met een bijbehorende toelichting.
