@@ -5,6 +5,10 @@ Deze pagina is bedoeld om inzicht te bieden in de wensen die bekend zijn met bet
 - **Kwaliteitsissue:** Kwaliteitsissues bij de huidige inhoud van de BAG. Hierover zal ik in overleg treden met de betrokken partijen om te beoordelen waar we de kwaliteitsprioriteiten op moeten richten;
 - **Doorontwikkeling passend bij BAG:** Wensen voor doorontwikkeling die goed passen bij de BAG als basisregistratie die met name identificerende- en gebouwgegevens bevatten;
 - **BAG als basis voor koppeling:** Wensen voor doorontwikkeling waar de BAG met name een goede basis kan bieden voor koppelingen met andere (sectorale) registraties, en waar de BAG in samenhang met die andere registraties in de informatiebehoefte voorziet. (bijv. het koppelen van energieprestatie-indicatoren of woningtyperingen);
-- **Datafundament - Meer dan alleen BAG:** Wensen die niet zo zeer over de BAG alleen gaan, maar raken aan de doorontwikkeling van de bredere nationale geo-informatie infrastructuur (ofwel het datafundament) waar basis- en sectorregistraties een belangrijke rol spelen. 
+- **Datafundament - Meer dan alleen BAG:** Wensen die niet zo zeer over de BAG alleen gaan, maar raken aan de doorontwikkeling van de bredere nationale geo-informatie infrastructuur (ofwel het datafundament) waar basis- en sectorregistraties een belangrijke rol spelen.
+
+Naast de bovenstaande categoriën is aan de wensen die direct de Catalogus BAG raken een extra label toegekend, te weten: 
+- **Catalogus onderhoud**: onderhoud van de tekst in de BAG Catalogus (bijv. schrijffouten, inconsistenties);
+- **Catalogus aanscherpen**: aanscherpen van de norm in de BAG Catalogus.
 
 Zie [hier](https://github.com/imbag/wensen/labels) voor een overzicht van de verschillende labels met een bijbehorende toelichting.
