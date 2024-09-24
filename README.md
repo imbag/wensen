@@ -12,3 +12,5 @@ Naast de bovenstaande categoriën is aan de wensen die direct de Catalogus BAG r
 - **Catalogus aanscherpen**: aanscherpen van de norm in de BAG Catalogus.
 
 Zie [hier](https://github.com/imbag/wensen/labels) voor een overzicht van de verschillende labels met een bijbehorende toelichting.
+
+Heeft u zelf een wens met betrekking tot de BAG? Laat het ons weten via het [BAG contactformulier](https://formulieren.kadaster.nl/contact_bag).
