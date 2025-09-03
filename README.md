@@ -1,6 +1,6 @@
 # Toelichting wensenlijst BAG
 
-Deze pagina is bedoeld om inzicht te bieden in de wensen die bekend zijn met betrekking tot de doorontwikkeling van de BAG. Deze wensen komen onder andere voort uit de evaluatie Wet BAG, vragen aan de BAG helpdesk en het BAG Gebruikersoverleg. De wensen zijn verrijkt met labels van de categorie waarop de wens betrekking heeft. Deze categorieën zijn vermeld in een [brief](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/documenten/kamerstukken/2023/10/02/kamerbrief-tk-evaluatie-wet-basisregistratie-adressen-en-gebouwen) over de tweede evaluatie van de Wet bag, die in oktober 2023 naar de Tweede (en Eerste) Kamer is gezonden. Hiermee zijn de wensen in één van de volgende categorieën ingedeeld:
+Deze pagina is bedoeld om inzicht te bieden in de [wensen](https://github.com/imbag/wensen/issues) die bekend zijn met betrekking tot de doorontwikkeling van de BAG. Deze wensen komen onder andere voort uit de evaluatie Wet BAG, vragen aan de BAG helpdesk en het BAG Gebruikersoverleg. De wensen zijn verrijkt met labels van de categorie waarop de wens betrekking heeft. Deze categorieën zijn vermeld in een [brief](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties/documenten/kamerstukken/2023/10/02/kamerbrief-tk-evaluatie-wet-basisregistratie-adressen-en-gebouwen) over de tweede evaluatie van de Wet bag, die in oktober 2023 naar de Tweede (en Eerste) Kamer is gezonden. Hiermee zijn de wensen in één van de volgende categorieën ingedeeld:
 
 - **Kwaliteitsissue:** Kwaliteitsissues bij de huidige inhoud van de BAG. Hierover zal ik in overleg treden met de betrokken partijen om te beoordelen waar we de kwaliteitsprioriteiten op moeten richten;
 - **Doorontwikkeling passend bij BAG:** Wensen voor doorontwikkeling die goed passen bij de BAG als basisregistratie die met name identificerende- en gebouwgegevens bevatten;
@@ -14,3 +14,5 @@ Naast de bovenstaande categoriën is aan de wensen die direct de Catalogus BAG r
 Zie [hier](https://github.com/imbag/wensen/labels) voor een overzicht van de verschillende labels met een bijbehorende toelichting.
 
 Heeft u zelf een wens met betrekking tot de BAG? Laat het ons weten via het [BAG contactformulier](https://formulieren.kadaster.nl/contact_bag).
+
+Klik [**hier**](https://github.com/imbag/wensen/issues) voor een overzicht met de wensen of klik op het tabblad 'Issues' bovenaan deze pagina.
